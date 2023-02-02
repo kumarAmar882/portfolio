@@ -1,0 +1,15 @@
+{
+  "extends": "@sanity/eslint-config-studio"
+}
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "babel"
+  ],
+  "env": {
+    "es6": true
+  },
+  "rules": {
+    "babel/semi": 2
+  }
+}
