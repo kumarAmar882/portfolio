@@ -10,6 +10,15 @@ This is a personal portfolio website showcasing your skills, projects, and achie
 You can access the live demo of the portfolio website [here](https://portfolio-amar.web.app/).
 
 
+https://github.com/kumarAmar882/portfolio/assets/65217388/eb5ebb2e-58dd-4d24-9550-d294d735bcfc
+
+
+
+
+
+
+
+
 ### Screenshots
 
 
