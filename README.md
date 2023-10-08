@@ -1,77 +1,25 @@
 # Portfolio Website
 
-![Portfolio Website Preview](link-to-your-portfolio-image-or-gif.gif)
+![Portfolio Website Preview](https://github.com/kumarAmar882/portfolio/assets/65217388/126f309c-5244-4c27-84da-e01422f71530)
 
 This is a personal portfolio website showcasing your skills, projects, and achievements. The website is built using React, Framer Motion for animations, SCSS for styling, and Yarn for package management. The backend is powered by Sanity CMS and Node.js.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## Demo
 
 You can access the live demo of the portfolio website [here](https://portfolio-amar.web.app/).
 
-## Technologies Used
 
-- React
-- Framer Motion
-- SCSS
-- Yarn
-- Sanity CMS
-- Node.js
+### Screenshots
 
-## Features
 
-- Showcase your projects and skills.
-- Smooth animations and transitions.
-- Backend powered by Sanity CMS for easy content management.
-- Responsive design for various screen sizes.
+![Screenshot (53)](https://github.com/kumarAmar882/portfolio/assets/65217388/eea0961d-1e16-40c2-b6f7-c76d30207f08)
 
-## Installation
 
-To run this project locally, follow these steps:
+![Screenshot (54)](https://github.com/kumarAmar882/portfolio/assets/65217388/dbd312ec-34d1-4e78-ac0b-607fca83d018)
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/kumarAmar882/portfolio.git
 
-2. Navigate to the project directory:
+![Screenshot (55)](https://github.com/kumarAmar882/portfolio/assets/65217388/c5ab6ea6-f23a-417d-b27b-9f93813cae4f)
 
-    ```bash
-    cd portfolio
 
-3. Install the dependencies using Yarn:
-
-    ```bash
-    yarn install
-4. Start the development server:
-
-    ```bash
-    yarn start
-5. Open your web browser and visit http://localhost:3000 to view the website locally.
-
-### Backend Setup (Sanity and Node.js)
-- This portfolio website uses Sanity as a backend for managing content. To set up the backend, follow these steps:
-
-1. Navigate to the backend directory in your project:
-
-    ```bash
-    cd backend
-2. Install the backend dependencies using Yarn:
-
-    ```bash
-    yarn install
-3. Start the Sanity Studio:
-
-    ```bash
-    yarn start
-
-4. Your Sanity Studio should be accessible at http://localhost:3333.
-
-5. The Node.js backend should also be running locally and communicating with Sanity for dynamic content.
